@@ -1,5 +1,3 @@
-# UTIM
-
 ## Text Editor
 * [Visual Studio Code](https://code.visualstudio.com/)
     [![](visual-studio-code-text-editor-1.png)](https://code.visualstudio.com/)
